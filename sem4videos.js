@@ -152,9 +152,9 @@ const obj = {
         3: {
             title: 'Chapter 3: Operating Costing or Service Costing',
             src1: 'https://www.youtube.com/embed/jQP5ym6KS_A?si=_9htcOSkKUv25nT5',
-            src1: 'https://www.youtube.com/embed/eps9PT6UFc8?si=7ECMfOSYwdhfd8gz',
-            src1: 'https://www.youtube.com/embed/TtopW9YqFDE?si=8HXaosQ4HOtgEpmF',
-            src1: 'https://www.youtube.com/embed/8x25tJ6497E?si=6I5CXHGpSs8-ptMC'
+            src2: 'https://www.youtube.com/embed/eps9PT6UFc8?si=7ECMfOSYwdhfd8gz',
+            src3: 'https://www.youtube.com/embed/TtopW9YqFDE?si=8HXaosQ4HOtgEpmF',
+            src4: 'https://www.youtube.com/embed/8x25tJ6497E?si=6I5CXHGpSs8-ptMC'
         },
         4: {
             title: 'Chapter 4: Job, Batch & Contract Costing',
